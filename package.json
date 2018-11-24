@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeromeetienne/AR.js.git"
+    "url": "git+https://github.com/FihlaTV/AR.js.git"
   },
   "keywords": [
     "AR",
     "VR",
     "three.js"
   ],
-  "author": "jerome.etienne@gmail.com",
+  "author": "fihlatv@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jeromeetienne/AR.js/issues"
+    "url": "git+https://github.com/FihlaTV/AR.js.git"
   },
-  "homepage": "https://github.com/jeromeetienne/AR.js#readme"
+  "homepage": "git+https://github.com/FihlaTV/AR.js.git#readme"
 }
